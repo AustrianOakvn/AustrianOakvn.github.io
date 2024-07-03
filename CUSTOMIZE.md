@@ -108,7 +108,7 @@ If the entry matches one form of the last names and the first names, it will be 
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
 "bach":
-  - firstname: ["Johann Sebastian", "J. S."]
+  - firstname: ["Bach-Thuan Bui", "B. Bach-Thuan"]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
