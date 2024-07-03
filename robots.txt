@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://austrianoak.github.io/sitemap.xml
+Sitemap: https://austrianoakvn.github.io/sitemap.xml
